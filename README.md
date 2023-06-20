@@ -1,3 +1,5 @@
+Some edits to the README.md automatically generated as part of this repo.
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
